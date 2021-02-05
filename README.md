@@ -8,11 +8,22 @@ Esta guía se divide en dos tipos de secuencias la primera es para los usuarios 
 sudo pacman -S bspwm
 sudo pacman -S sxhkd
 ```
-Luego instalaremos la barra utilizaré polybar para instalarlo ejecutamos el siguiente comando en la terminal:
+1.2.-Luego instalaremos la barra utilizaré polybar para instalarlo ejecutamos el siguiente comando en la terminal:
 ```bash
 sudo pacman -S git
 git clone https://aur.archlinux.org/polybar.git
 cd polybar
 makepkg -si
 ```
-
+1.3.-Continuamos instalando el compositor de ventanas ( el que le da efectos chingones XD)
+```bash
+git clone https://aur.archlinux.org/picom-git.git
+cd picom-git
+makepkg -si
+```
+1.4.-Para que tenga fondo usaremos feh
+```bash
+sudo pacman -S feh
+```
+1.5.-Para el Spotify primero lo instalaremos y luego el cliente de personalización
+```bash
