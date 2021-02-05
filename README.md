@@ -7,6 +7,7 @@ Esta guía se divide en dos tipos de secuencias la primera es para los usuarios 
 ```bash
 sudo pacman -S bspwm
 sudo pacman -S sxhkd
+sudo pacman -S git
 ```
 1.2.-Luego instalaremos la barra utilizaré polybar para instalarlo ejecutamos el siguiente comando en la terminal:
 ```bash
@@ -64,7 +65,18 @@ mkdir picom
 
 mkdir rofi
 
+cd rofi
+
+mkdir themes
+
+cd ..
+
 mkdir alacritty
+
+```
+2.2.-Hora de Copiar Pana
+
+```bash
 
 cd ~/DotfilesForEverybody
 
@@ -82,7 +94,15 @@ cp bspwmrc ~/.config/bspwm
 
 cd ..
 
-cd sxhk
+cd sxhkd
+
+cp sxhkdrc ~/.config/sxhkd
+
+cd ..
+
+cd polybar
+
+
 ```
 
 
