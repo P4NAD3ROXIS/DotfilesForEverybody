@@ -149,11 +149,11 @@ cd ..
 cd ~/DotfilesForEverybody/.wallpaper
 cp Architect.png BigSur.jpg Ghibli.jpg RocknSky.jpg Stoic.jpg YWing.png ~/.wallpaper
 ```
-# 3.-Resultado final y algunos eastereggs
+# 3.-Resultado final y algunos EasterEggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
 
 
-3.2.-EasterEggs
+3.1.-EasterEggs
 En la carpeta poyo te he dejado algunos scripts que los puedes correr de la siguiente forma:
 ```bash
 cd poyo
