@@ -62,7 +62,11 @@ mkdir sxhkd
 ```bash
 mkdir polybar
 cd polybar
-mkdir 
+mkdir scripts
+cd scripts
+mkdir themes
+mkdir fonts
+cd ..
 ```
 2.1.3.-Ahora el compositor de ventanas
 ```bash
@@ -80,21 +84,31 @@ cd ..
 mkdir alacritty
 ```
 2.2.-Hora de Copiar Pana
-
+2.2.1.-Empezaremos con la terminal
 ```bash
 cd ~/DotfilesForEverybody
 cd .config
 cd alacritty
 cp alacritty.yml ~/.config/alacritty
+```
+2.2.2.-Luego los archivos de el gestor de ventanas
+```bash
 cd ..
 cd bspwm
 cp bspwmrc ~/.config/bspwm
 cd ..
 cd sxhkd
 cp sxhkdrc ~/.config/sxhkd
+```
+2.2.3.-Ahora con la barra
+```
 cd ..
 cd polybar
-
+cp colors.ini colors_dark.ini color_light.ini config current.ini launch.sh workspace.ini ~/.config/polybar
+cd fonts
+cp Helvetica_BoldOblique.ttf Helvetica_Bold.ttf helvetica_compressed_5871d14b6903a.otf helvetica_light_587ebe5a59211.ttf 2helvetica_rounded_bold_5871d05ead8de.otf Helvetica.ttf HurmitNerdFontComplete_Mono.otf 'Iosevka Nerd Font Complete.ttf' ~/.config/polybar/fonts
+cd ..
+cd 
 
 ```
 
