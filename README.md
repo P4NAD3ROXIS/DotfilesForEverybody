@@ -36,7 +36,7 @@ git clone https://aur.archlinux.org/spotify.git
 cd spotify
 makepkg -si
 ```
-1.6.1.-Instalemos el spicetify para ponerle temas al spotify
+1.6.1.-Instalemos spicetify para poner temas en spotify
 ```bash
  curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
  sudo chmod a+wr /opt/spotify
@@ -45,6 +45,10 @@ makepkg -si
  1.7.-Instalaremos finalmente la terminal alacritty para que no consuma muchos recursos :3
  ```bash
  sudo pacman -S alacritty
+ ```
+ 1.8.-Instalando el gestionador de notificaciones
+ ```bash
+ sudo pacman -S dunst
  ```
 # 2.-La Personalización
 2.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio
@@ -83,6 +87,10 @@ cd ..
 ```
 mkdir alacritty
 ```
+2.1.6.-El gestor de notificaiones
+```bash
+mkdir dunst
+```
 2.2.-Hora de Copiar Pana
 2.2.1.-Empezaremos con la terminal
 ```bash
@@ -108,8 +116,46 @@ cp colors.ini colors_dark.ini color_light.ini config current.ini launch.sh works
 cd fonts
 cp Helvetica_BoldOblique.ttf Helvetica_Bold.ttf helvetica_compressed_5871d14b6903a.otf helvetica_light_587ebe5a59211.ttf 2helvetica_rounded_bold_5871d05ead8de.otf Helvetica.ttf HurmitNerdFontComplete_Mono.otf 'Iosevka Nerd Font Complete.ttf' ~/.config/polybar/fonts
 cd ..
-cd 
-
+cd scripts
+cp launcher  powermenu  powermenu_alt ~/.config/polybar/scripts
+cd themes
+cp colors_dark.rasi colors.rasi powermenu_alt.rasi colors_light.rasi launcher.rasi powermenu.rasi ~/.config/polybar/scripts/themes
+cd ~/DotfilesForEverybody/.config
 ```
+2.2.4.-El menú de aplicaciones
+```bash
+cd rofi
+cp config ~/.config/rofi
+cd themes
+cp onedark.rasi ~/.config/rofi/themes
+cd ~/DotfilesForEverybody/.config
+```
+2.2.5.-El compositor de ventanas picom
+```bash
+cd picom
+cp picom.conf ~/.config/picom
+cd ..
+```
+2.2.6.-El gestor de notificaciones
+```bash
+cd dunst
+cp dunstrc ~/.config/dunst
+cd ..
+```
+# 3.-Resultado final y algunos eastereggs
+Si copiaste todo bien te debia haber salido algo parecido a esto
+3.1.-Resultados
 
 
+3.2.-EasterEggs
+En la carpeta poyo te he dejado algunos scripts que los puedes correr de la siguiente forma:
+```bash
+cd poyo
+por ejemplo para correr el script de unix:
+./unix
+```
+# 4.- Agradecimientos y Dedicatoria
+Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar.
+
+# Te gusto la guía
+Hace mucho frío quetal si me invitas un cafesito :3
