@@ -58,6 +58,8 @@ git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
 2.1.-Ahora copiaremos los archivos de configuración 
 2.1.1.-Empezaremos con los archivos de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
 ```bash
+mkdir .wallpaper
+mkdir .fonts
 cd .config
 mkdir bspwm
 mkdir sxhkd
@@ -142,9 +144,13 @@ cd dunst
 cp dunstrc ~/.config/dunst
 cd ..
 ```
+2.2.7.-Los fondos de pantalla
+```bash
+cd ~/DotfilesForEverybody/.wallpaper
+cp Architect.png BigSur.jpg Ghibli.jpg RocknSky.jpg Stoic.jpg YWing.png ~/.wallpaper
+```
 # 3.-Resultado final y algunos eastereggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
-3.1.-Resultados
 
 
 3.2.-EasterEggs
@@ -158,4 +164,4 @@ por ejemplo para correr el script de unix:
 Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar.
 
 # Te gusto la guía
-Hace mucho frío quetal si me invitas un cafesito :3
+Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
