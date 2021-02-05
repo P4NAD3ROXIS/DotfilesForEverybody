@@ -172,7 +172,7 @@ Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los ges
 # Te gusto la guía
 Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
 
-Aquí te dejo mi canal de Youtube para que te te guíes más
+Aquí te dejo mi canal de Youtube para que te guíes más
 
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
 
