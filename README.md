@@ -45,3 +45,44 @@ makepkg -si
  ```bash
  sudo pacman -S alacritty
  ```
+# 2.-La Personalización
+2.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio
+```bash
+git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
+```
+2.1.-Ahora copiaremos los archivos de configuración de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
+```bash
+cd .config
+
+mkdir bspwm
+
+mkdir sxhkd
+
+mkdir polybar
+
+mkdir picom
+
+mkdir rofi
+
+mkdir alacritty
+
+cd ~/DotfilesForEverybody
+
+cd .config
+
+cd alacritty
+
+cp alacritty.yml ~/.config/alacritty
+
+cd ..
+
+cd bspwm
+
+cp bspwmrc ~/.config/bspwm
+
+cd ..
+
+cd sxhk
+```
+
+
