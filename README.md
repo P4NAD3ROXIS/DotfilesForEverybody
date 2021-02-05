@@ -157,8 +157,10 @@ Si copiaste todo bien te debia haber salido algo parecido a esto
   <img src="https://i.imgur.com/AImpdAj.png">
   <img src="https://i.imgur.com/mnkMygA.png"
 </p>
+
 4.1.-EasterEggs
 En la carpeta poyo te he dejado algunos scripts que los puedes correr de la siguiente forma:
+
 ```bash
 cd poyo
 por ejemplo para correr el script de unix:
