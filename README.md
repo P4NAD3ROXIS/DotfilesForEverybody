@@ -51,17 +51,32 @@ makepkg -si
 ```bash
 git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
 ```
-2.1.-Ahora copiaremos los archivos de configuración de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
+2.1.-Ahora copiaremos los archivos de configuración 
+2.1.1.-Empezaremos con los archivos de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
 ```bash
 cd .config
 mkdir bspwm
 mkdir sxhkd
+```
+2.1.2.-Ahora crearemos el directorio de la barra recuerda debes estar en la carpeta .config
+```bash
 mkdir polybar
+cd polybar
+mkdir 
+```
+2.1.3.-Ahora el compositor de ventanas
+```bash
 mkdir picom
+```
+2.1.4.-El menu de aplicaciones
+```
 mkdir rofi
 cd rofi
 mkdir themes
 cd ..
+```
+2.1.5.-La terminal minimalista
+```
 mkdir alacritty
 ```
 2.2.-Hora de Copiar Pana
