@@ -167,7 +167,13 @@ por ejemplo para correr el script de unix:
 ./unix
 ```
 # 5.- Agradecimientos y Dedicatoria
-Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos
+Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos.
+
+# 6.-Créditos
+
+Para los fondos de pantalla y la paleta de colores(en la terminal y etc): [Miguel Avila](https://github.com/MiguelRAvila)
+Para la barra y efectos de compton: [sudo rice](https://github.com/VaughnValle)
+
 
 # Te gusto la guía
 Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
