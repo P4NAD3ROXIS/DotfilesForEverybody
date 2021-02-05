@@ -172,6 +172,10 @@ Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los ges
 # Te gusto la guía
 Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
 
-Si quieres ver como seguir los procedimientos sigueme en estas plataformas
+Aquí te dejo mi canal de Youtube para que te te guíes más
 
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
+
+<!--Me puedes dar un solsito para mi frugos :3-->
+
+<!-- El patreon esta en verificación [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sudo_rice)-->
