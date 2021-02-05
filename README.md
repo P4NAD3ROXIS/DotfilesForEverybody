@@ -50,13 +50,13 @@ makepkg -si
  ```bash
  sudo pacman -S dunst
  ```
-# 2.-La Personalización
-2.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio
+# 3.-La Personalización
+3.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio
 ```bash
 git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
 ```
-2.1.-Ahora copiaremos los archivos de configuración 
-2.1.1.-Empezaremos con los archivos de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
+3.1.-Ahora copiaremos los archivos de configuración 
+3.1.1.-Empezaremos con los archivos de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
 ```bash
 mkdir .wallpaper
 mkdir .fonts
@@ -64,7 +64,7 @@ cd .config
 mkdir bspwm
 mkdir sxhkd
 ```
-2.1.2.-Ahora crearemos el directorio de la barra recuerda debes estar en la carpeta .config
+3.1.2.-Ahora crearemos el directorio de la barra recuerda debes estar en la carpeta .config
 ```bash
 mkdir polybar
 cd polybar
@@ -74,34 +74,34 @@ mkdir themes
 mkdir fonts
 cd ..
 ```
-2.1.3.-Ahora el compositor de ventanas
+3.1.3.-Ahora el compositor de ventanas
 ```bash
 mkdir picom
 ```
-2.1.4.-El menu de aplicaciones
+3.1.4.-El menu de aplicaciones
 ```
 mkdir rofi
 cd rofi
 mkdir themes
 cd ..
 ```
-2.1.5.-La terminal minimalista
+3.1.5.-La terminal minimalista
 ```
 mkdir alacritty
 ```
-2.1.6.-El gestor de notificaiones
+3.1.6.-El gestor de notificaiones
 ```bash
 mkdir dunst
 ```
-2.2.-Hora de Copiar Pana
-2.2.1.-Empezaremos con la terminal
+3.2.-Hora de Copiar Pana
+3.2.1.-Empezaremos con la terminal
 ```bash
 cd ~/DotfilesForEverybody
 cd .config
 cd alacritty
 cp alacritty.yml ~/.config/alacritty
 ```
-2.2.2.-Luego los archivos de el gestor de ventanas
+3.2.2.-Luego los archivos de el gestor de ventanas
 ```bash
 cd ..
 cd bspwm
@@ -110,7 +110,7 @@ cd ..
 cd sxhkd
 cp sxhkdrc ~/.config/sxhkd
 ```
-2.2.3.-Ahora con la barra
+3.2.3.-Ahora con la barra
 ```
 cd ..
 cd polybar
@@ -124,7 +124,7 @@ cd themes
 cp colors_dark.rasi colors.rasi powermenu_alt.rasi colors_light.rasi launcher.rasi powermenu.rasi ~/.config/polybar/scripts/themes
 cd ~/DotfilesForEverybody/.config
 ```
-2.2.4.-El menú de aplicaciones
+3.2.4.-El menú de aplicaciones
 ```bash
 cd rofi
 cp config ~/.config/rofi
@@ -132,36 +132,36 @@ cd themes
 cp onedark.rasi ~/.config/rofi/themes
 cd ~/DotfilesForEverybody/.config
 ```
-2.2.5.-El compositor de ventanas picom
+3.2.5.-El compositor de ventanas picom
 ```bash
 cd picom
 cp picom.conf ~/.config/picom
 cd ..
 ```
-2.2.6.-El gestor de notificaciones
+3.2.6.-El gestor de notificaciones
 ```bash
 cd dunst
 cp dunstrc ~/.config/dunst
 cd ..
 ```
-2.2.7.-Los fondos de pantalla
+3.2.7.-Los fondos de pantalla
 ```bash
 cd ~/DotfilesForEverybody/.wallpaper
 cp Architect.png BigSur.jpg Ghibli.jpg RocknSky.jpg Stoic.jpg YWing.png ~/.wallpaper
 ```
-# 3.-Resultado final y algunos EasterEggs
+# 4.-Resultado final y algunos EasterEggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
 
 
-3.1.-EasterEggs
+4.1.-EasterEggs
 En la carpeta poyo te he dejado algunos scripts que los puedes correr de la siguiente forma:
 ```bash
 cd poyo
 por ejemplo para correr el script de unix:
 ./unix
 ```
-# 4.- Agradecimientos y Dedicatoria
-Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar.
+# 5.- Agradecimientos y Dedicatoria
+Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos
 
 # Te gusto la guía
 Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
