@@ -54,52 +54,30 @@ git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
 2.1.-Ahora copiaremos los archivos de configuración de bspwm (el gestor de ventanas) y sxhkd (el gestor de atajos de teclas XD) a .config para que funcionen solo copia y pega los comandos :3
 ```bash
 cd .config
-
 mkdir bspwm
-
 mkdir sxhkd
-
 mkdir polybar
-
 mkdir picom
-
 mkdir rofi
-
 cd rofi
-
 mkdir themes
-
 cd ..
-
 mkdir alacritty
-
 ```
 2.2.-Hora de Copiar Pana
 
 ```bash
-
 cd ~/DotfilesForEverybody
-
 cd .config
-
 cd alacritty
-
 cp alacritty.yml ~/.config/alacritty
-
 cd ..
-
 cd bspwm
-
 cp bspwmrc ~/.config/bspwm
-
 cd ..
-
 cd sxhkd
-
 cp sxhkdrc ~/.config/sxhkd
-
 cd ..
-
 cd polybar
 
 
