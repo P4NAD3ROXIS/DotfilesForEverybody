@@ -1,4 +1,5 @@
-# DotfilesForEverybody
+<h1 align="center">DotfilesForEverybody</h1>
+
 Este es el repositorio de los dotfiles para el rice de linux espero que te guste mi pana Guía en Español
 # Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
@@ -151,8 +152,11 @@ cp Architect.png BigSur.jpg Ghibli.jpg RocknSky.jpg Stoic.jpg YWing.png ~/.wallp
 ```
 # 4.-Resultado final y algunos EasterEggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
-
-
+<p align="center">
+  <img src="https://i.imgur.com/YDQO2bQ.png">
+  <img src="https://i.imgur.com/AImpdAj.png">
+  <img src="https://i.imgur.com/mnkMygA.png"
+</p>
 4.1.-EasterEggs
 En la carpeta poyo te he dejado algunos scripts que los puedes correr de la siguiente forma:
 ```bash
