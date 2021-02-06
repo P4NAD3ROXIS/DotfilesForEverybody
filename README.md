@@ -265,6 +265,8 @@ Esta guía esta dedicada a todos aquellos que quieren empezar en los gestores de
 ## 6.-Créditos
 
 Para los fondos de pantalla y la paleta de colores(en la terminal y etc): [Miguel Avila](https://github.com/MiguelRAvila)
+
+
 Para la barra y efectos de compton: [sudo rice](https://github.com/VaughnValle)
 
 
