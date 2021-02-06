@@ -262,7 +262,7 @@ por ejemplo para correr el script de unix:
 ./unix
 ```
 ## 5.- Agradecimientos y Dedicatoria
-Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos.
+Esta guía esta dedicada a todos aquellos que quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos.
 
 ## 6.-Créditos
 
