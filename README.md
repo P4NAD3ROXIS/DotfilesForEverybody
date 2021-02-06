@@ -7,7 +7,7 @@
 
 
 
-Este es el repositorio de los dotfiles para el rice de linux espero que te guste mi pana Guía en Español
+<p align="center">Este es el repositorio de los dotfiles para el rice de linux espero que te guste mi pana Guía en Español</p>
 
 [![Sad](https://i.pinimg.com/originals/48/69/68/48696843b6a213fcdecfd996fb42061a.jpg)](https://www.youtube.com/watch?v=Le_gTAlBNO8)
 
