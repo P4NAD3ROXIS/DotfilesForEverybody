@@ -11,11 +11,14 @@
 
 [![Sad](https://i.pinimg.com/originals/48/69/68/48696843b6a213fcdecfd996fb42061a.jpg)](https://www.youtube.com/watch?v=Le_gTAlBNO8)
 
-# Tabla de Contenido
+## Tabla de Contenido
+* [Tabla de Contenido](#Tabla-De-Contenido)
 * [Acerca De La Guía](#Acerca-De-La-Guía)
+* [Primeros Pasos Arch](#1.-PrimerosPasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
+
 ## Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
-# 1.- Primeros Pasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
+## 1.- Primeros Pasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
 1.1.- Primeramente instalaremos el gestor de ventanas que requerimos, el proceso se muestra a continuación:
 ```bash
 sudo pacman -S bspwm
@@ -62,7 +65,7 @@ makepkg -si
  ```bash
  sudo pacman -S dunst
 ```
-# 2.-Primeros Pasos (Para ditribuciones basadas en Debian: Linux Mint, Ubuntu, Kubuntu, Kali Linux, Lubuntu, ufff y demás)
+## 2.-Primeros Pasos (Para ditribuciones basadas en Debian: Linux Mint, Ubuntu, Kubuntu, Kali Linux, Lubuntu, ufff y demás)
 2.1.- Primeramente actualizaremos el sitema y los repositorios:
 ```bash
 sudo apt-get update && sudo apt-get upgrade
@@ -148,7 +151,7 @@ sudo apt-get install feh
 ```bash
 sudo apt-get install dunst
 ```
-# 3.-La Personalización
+## 3.-La Personalización
 3.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio (Estos pasos se aplican tanto para los usuarios de distros basadas en Arch y Debian)
 ```bash
 git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
@@ -247,7 +250,7 @@ cd ..
 cd ~/DotfilesForEverybody/.wallpaper
 cp Architect.png BigSur.jpg Ghibli.jpg RocknSky.jpg Stoic.jpg YWing.png ~/.wallpaper
 ```
-# 4.-Resultado final y algunos EasterEggs
+## 4.-Resultado final y algunos EasterEggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
 <p align="center">
   <img src="https://i.imgur.com/YDQO2bQ.png">
@@ -263,16 +266,16 @@ cd poyo
 por ejemplo para correr el script de unix:
 ./unix
 ```
-# 5.- Agradecimientos y Dedicatoria
+## 5.- Agradecimientos y Dedicatoria
 Esta guía esta dedicada a todos aquellos que quienes quieren empezar en los gestores de ventanas pero no saben por donde empezar. Agradezco el apoyo de toda la la comunidad de [Xunix](https://www.facebook.com/groups/xunix.welcome.to.the.heaven) son unos capos.
 
-# 6.-Créditos
+## 6.-Créditos
 
 Para los fondos de pantalla y la paleta de colores(en la terminal y etc): [Miguel Avila](https://github.com/MiguelRAvila)
 Para la barra y efectos de compton: [sudo rice](https://github.com/VaughnValle)
 
 
-# Te gusto la guía
+## Te gusto la guía
 Hace mucho frío que tal si me invitas un cafesito :3
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/panaderoxis)
