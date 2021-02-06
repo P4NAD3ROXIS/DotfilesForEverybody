@@ -176,12 +176,13 @@ Para la barra y efectos de compton: [sudo rice](https://github.com/VaughnValle)
 
 
 # Te gusto la guía
-Hace mucho frío que tal si nos tomamos un [cafesito](https://ko-fi.com/panaderoxis) :3
+Hace mucho frío que tal si me invitas un cafesito :3
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/panaderoxis)
 
-Aquí te dejo mi canal de Youtube para que te guíes más
+Aquí te dejo mi canal de Youtube para que te guíes más :3
 
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
 
-<!--Me puedes dar un solsito para mi frugos :3-->
+Me puedes dar un solsito para mi frugos :3
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/natry_nenvf)
