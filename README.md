@@ -277,7 +277,7 @@ Hace mucho frío que tal si me invitas un cafesito :3
 
 Aquí te dejo mi canal de Youtube para que te guíes más :3
 
-[![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
+[![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/channel/UC8FF0V99oxY0k_im1-_Tyvg)
 
 Me puedes dar un dólar para mi frugos :3
 
