@@ -279,6 +279,6 @@ Aquí te dejo mi canal de Youtube para que te guíes más :3
 
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
 
-Me puedes dar un solsito para mi frugos :3
+Me puedes dar un dólar para mi frugos :3
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/natry_nenvf)
