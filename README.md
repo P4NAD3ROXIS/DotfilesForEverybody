@@ -184,4 +184,4 @@ Aquí te dejo mi canal de Youtube para que te guíes más
 
 <!--Me puedes dar un solsito para mi frugos :3-->
 
-<!-- El patreon esta en verificación [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sudo_rice)-->
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/natry_nenvf)
