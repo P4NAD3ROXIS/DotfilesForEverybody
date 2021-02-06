@@ -12,8 +12,8 @@
 [![Sad](https://i.pinimg.com/originals/48/69/68/48696843b6a213fcdecfd996fb42061a.jpg)](https://www.youtube.com/watch?v=Le_gTAlBNO8)
 
 # Tabla de Contenido
-* [Acerca De La Guía](# Acerca De La Guía)
-# Acerca De La Guía 
+* [Acerca De La Guía](#Acerca-De-La-Guía)
+## Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
 # 1.- Primeros Pasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
 1.1.- Primeramente instalaremos el gestor de ventanas que requerimos, el proceso se muestra a continuación:
