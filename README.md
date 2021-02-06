@@ -8,6 +8,9 @@
 
 
 Este es el repositorio de los dotfiles para el rice de linux espero que te guste mi pana Guía en Español
+
+[![Sad](https://i.pinimg.com/originals/48/69/68/48696843b6a213fcdecfd996fb42061a.jpg)](https://www.youtube.com/watch?v=Le_gTAlBNO8)
+
 # Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
 # 1.- Primeros Pasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
