@@ -14,7 +14,7 @@
 ## Tabla de Contenido
 * [Tabla de Contenido](#Tabla-De-Contenido)
 * [Acerca De La Guía](#Acerca-De-La-Guía)
-* [Primeros Pasos Arch](#1.-PrimerosPasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más)
+* [Primeros Pasos Arch](#1.-PrimerosPasos (Para distribuciones basadas en Arch : Manjaro, Antergos, y no sé que más))
 
 ## Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
