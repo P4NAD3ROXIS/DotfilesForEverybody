@@ -71,7 +71,8 @@ sudo apt-get update && sudo apt-get upgrade
 ```bash
 git clone https://github.com/baskerville/bspwm.git
 cd bspwm
-make sudo make install
+make 
+sudo make install
 ```
 2.4.-Y luego sxhkd para los atajos de tecla:
 ```bash
@@ -88,6 +89,7 @@ make sudo make install
    git clone --recursive https://github.com/polybar/polybar
    cd polybar
    mkdir build
+   cd build
    cmake ..
    make -j$(nproc)
    sudo make install
