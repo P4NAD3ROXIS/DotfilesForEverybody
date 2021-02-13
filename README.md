@@ -69,16 +69,11 @@ sudo apt-get update && sudo apt-get upgrade
 ```
 2.3.-Ahora recien instalamos bspwm:
 ```bash
-git clone https://github.com/baskerville/bspwm.git
-cd bspwm
-make 
-sudo make install
+sudo apt-get install bspwm
 ```
 2.4.-Y luego sxhkd para los atajos de tecla:
 ```bash
-  git clone https://github.com/baskerville/sxhkd.git
-  make 
-  sudo make install
+sudo apt-get install sxhkd
 ```
 2.5.-Instalamos las dependencias de polybar(la barrita :3)
 ```bash
@@ -118,11 +113,11 @@ sudo make install
 ```
 2.10.-Ahora lo instalamos
 ```bash
-  sudo make install
+  sudo apt-get install rofi
 ```
 2.11.-Instalamos la terminal
 ```bash
-sudo apt-get install alacritty
+sudo apt-get install kitty
 ```
 2.12.-Instalamos feh para el fondo de pantalla
 ```bash
