@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/VaughnValle/blue-sky?style=for-the-badge"
+  <img src="https://img.shields.io/github/issues/P4NAD3ROXIS/DotfilesForEverybody?style=for-the-badge"
 </p>
 
 
