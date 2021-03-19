@@ -1,4 +1,5 @@
-## 3.-La Personalización
+<h1 align="center">Personalización en Arch</h1>
+
 3.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio (Estos pasos se aplican tanto para los usuarios de distros basadas en Arch y Debian)
 ```bash
 git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
