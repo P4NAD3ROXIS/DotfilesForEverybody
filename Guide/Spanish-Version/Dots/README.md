@@ -1,5 +1,11 @@
 <h1 align="center">Personalización en Arch</h1>
 
+<p align="center">
+ 
+<img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Spanish-Version/Dots/Arch-Custom.jpg">
+
+</p>
+
 Clonamos este repo
 
 ```bash
