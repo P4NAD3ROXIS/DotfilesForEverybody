@@ -18,7 +18,3 @@ Actualmente la guía solo esta para distribuciones basadas en Arch o en Debian, 
 
 - [Basada en Debian](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Debian/README.md)
 
-## Un Pingüino
-
-
-[![Sad](https://i.pinimg.com/originals/48/69/68/48696843b6a213fcdecfd996fb42061a.jpg)](https://www.youtube.com/watch?v=Le_gTAlBNO8)
