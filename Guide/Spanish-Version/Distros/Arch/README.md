@@ -50,19 +50,19 @@ $ yay -S spotify
 Instalemos spicetify para poner temas en spotify
 
 ```bash
- curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
- sudo chmod a+wr /opt/spotify
- sudo chmod a+wr /opt/spotify/Apps -R
+ $ curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
+ $ sudo chmod a+wr /opt/spotify
+ $ sudo chmod a+wr /opt/spotify/Apps -R
  ```
 
 Instalaremos finalmente la terminal alacritty para que no consuma muchos recursos :3
 
 ```bash
- sudo pacman -S alacritty
+$ sudo pacman -S alacritty
  ```
 
 Instalando el gestionador de notificaciones
 
 ```bash
- sudo pacman -S dunst
+$ sudo pacman -S dunst
 ```
