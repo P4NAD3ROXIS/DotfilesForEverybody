@@ -22,10 +22,12 @@
     * [Instalalación de lo necesario](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Debian/README.md)
     * [Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/Readme.md)
 
-- [Conclusión]
+- [Conclusión]()
   
   °[Resultado Final](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/tree/main/Guide/Spanish-Version/Result)
+  
   ° [Agradecimientos]()
+  
   ° [Apoyame!]()
  
 
