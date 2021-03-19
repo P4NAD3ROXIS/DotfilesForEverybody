@@ -24,6 +24,7 @@ $ cp -r /home/"Tu_usuario"/.config
 ```
 
 
+Finalmente, borramos el repositorio para que no ocupe espacio.
 Y eso sería todo, si lo hiciste bien te debe salir así:
 
 - [Resultado](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/tree/main/Guide/Spanish-Version/Result)
