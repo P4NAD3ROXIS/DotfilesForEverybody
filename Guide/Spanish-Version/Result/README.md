@@ -2,9 +2,9 @@
 ## 4.-Resultado final y algunos EasterEggs
 Si copiaste todo bien te debia haber salido algo parecido a esto
 <p align="center">
-  <img src="https://i.imgur.com/YDQO2bQ.png">
-  <img src="https://i.imgur.com/AImpdAj.png">
-  <img src="https://i.imgur.com/mnkMygA.png"
+  <a href="https://github.com/polybar/polybar/blob/master/LICENSE"><img src="https://i.imgur.com/YDQO2bQ.png"></a>
+<a href="https://www.codetriage.com/polybar/polybar"><img src="https://i.imgur.com/AImpdAj.png"></a>
+<a href="https://opencollective.com/polybar"><img src="https://i.imgur.com/mnkMygA.png"></a>
 </p>
 
 4.1.-EasterEggs
