@@ -2,7 +2,7 @@
 
 <p align="center">
  
-<img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Spanish-Version/Distros/Arch/archlinux.png">
+<img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Spanish-Version/Distros/Debian/Debian.png">
 
 </p>
 
@@ -33,7 +33,7 @@ Instalamos el menú de aplicaciones
 
 Instalamos la terminal y seguimos los pasos de:
 
--[Alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
+- [Alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
 
 Instalamos feh para el fondo de pantalla
 
