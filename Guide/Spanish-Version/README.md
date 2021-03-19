@@ -12,6 +12,12 @@
 ## Acerca De La Guía 
 Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
 
+## ¿Qué tipo de distro usas?
+
+- [Basada en Arch](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Readme.md)
+
+- [Basada en Debian](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/README.md)
+
 ## 3.-La Personalización
 3.1.-Empecemos con los ficheros base así que tienes que clonar este repositorio (Estos pasos se aplican tanto para los usuarios de distros basadas en Arch y Debian)
 ```bash
