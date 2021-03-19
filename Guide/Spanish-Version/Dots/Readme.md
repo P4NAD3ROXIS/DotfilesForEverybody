@@ -3,7 +3,7 @@
 Clonamos este repo
 
 ```bash
-git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
+$ git clone https://github.com/P4NAD3ROXIS/DotfilesForEverybody.git
 ```
 
 Ahora copiaremos los archivos de configuración 
