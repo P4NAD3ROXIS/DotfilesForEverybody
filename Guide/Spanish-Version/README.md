@@ -1,4 +1,4 @@
-<h1 align="center">DotfilesForEverybody</h1>
+<h1 align="center">Guía Español</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
@@ -7,10 +7,10 @@
 
 
 
-<p align="center">Este es el repositorio de los dotfiles para el rice de linux espero que te guste mi pana Guía en Español</p>
+<p align="center">Esta es la guía en español espero que te sirva 😺</p>
 
 ## Acerca De La Guía 
-Esta guía se divide en dos tipos de secuencias la primera es para los usuarios de distribuciones basadas en ARCH LINUX, y la siguiente es para los usuarios de distribuciones basadas en DEBIAN así que quedas avisado ....
+Actualmente la guía solo esta para distribuciones basadas en Arch o en Debian, pero proximamente se viene para más distros
 
 ## ¿Qué tipo de distro usas?
 
