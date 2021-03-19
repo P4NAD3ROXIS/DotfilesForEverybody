@@ -1,4 +1,4 @@
-<h1 align="center">Primeros Pasos Arch</h1>
+<h1 align="center">Primeros Pasos Debian</h1>
 
 <p align="center">
  
@@ -46,3 +46,8 @@ Instalamos el gestionador de notificaciones
 ```bash
 sudo apt-get install dunst
 ```
+
+
+Finalmente lo personalizamos
+
+- [Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/Readme.md)
