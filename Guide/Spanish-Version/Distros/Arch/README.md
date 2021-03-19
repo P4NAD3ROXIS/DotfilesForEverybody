@@ -71,4 +71,4 @@ $ sudo pacman -S dunst
 
 Finalmente lo personalizamos
 
--[Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/README.md)
+- [Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/README.md)
