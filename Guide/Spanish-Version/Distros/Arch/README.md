@@ -1,5 +1,11 @@
 <h1 align="center">Primeros Pasos Arch</h1>
 
+<p align="center">
+ 
+<img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Spanish-Version/Distros/Arch/archlinux.png">
+
+</p>
+
 # Instalando todo lo necesario
 
 Primeramente instalaremos el gestor de ventanas que requerimos, el proceso se muestra a continuación:
