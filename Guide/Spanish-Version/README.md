@@ -9,7 +9,11 @@
 
 <p align="center">Esta es la guía en español espero que te sirva 😺</p>
 
-## Acerca De La Guía 
+## Tabla de contenidos
+
+
+
+## Acerca de la guía 
 Actualmente la guía solo esta para distribuciones basadas en Arch o en Debian, pero proximamente se viene para más distros
 
 ## ¿Qué tipo de distro usas?
