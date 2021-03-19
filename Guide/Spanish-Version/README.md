@@ -12,10 +12,10 @@
 ## Tabla de contenidos
 - [Acerca de la Guía](#acerca-de-la-guía)
 - [Instalación](#¿qué-tipo-de-distro-usas?)
-  ° [Basadas en Arch]
+  ° [Basadas en Arch]()
     * [Instalalación de lo necesario](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Arch/README.md)
     * [Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/README.md)
-  ° [Basadas en Debian]
+  ° [Basadas en Debian]()
     * [Instalalación de lo necesario](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Debian/README.md)
     * [Personalización](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/Readme.md)
 - [Conclusión]
