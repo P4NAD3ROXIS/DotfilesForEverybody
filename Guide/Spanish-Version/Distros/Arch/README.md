@@ -11,45 +11,40 @@
 Primeramente instalaremos el gestor de ventanas que requerimos, el proceso se muestra a continuación:
 
 ```bash
-sudo pacman -S bspwm
-sudo pacman -S sxhkd
-sudo pacman -S git
+$ sudo pacman -S bspwm
+$ sudo pacman -S sxhkd
+$ sudo pacman -S git
+$ sudo pacman -S yay
 ```
 
 Luego instalaremos la barra utilizaré polybar para instalarlo ejecutamos el siguiente comando en la terminal:
 
 ```bash
-git clone https://aur.archlinux.org/polybar.git
-cd polybar
-makepkg -si
+$ yay -S polybar-git
 ```
 
 Continuamos instalando el compositor de ventanas ( el que le da efectos chingones XD)
 
 ```bash
-git clone https://aur.archlinux.org/picom-git.git
-cd picom-git
-makepkg -si
+$ yay -S picom-ibhagwam-git
 ```
 
 Para el menu usaremos rofi esta bonito y gratis
 
 ```bash
-sudo pacman -S rofi
+$ sudo pacman -S rofi
 ```
 
 Para que tenga fondo usaremos feh
 
 ```bash
-sudo pacman -S feh
+$ sudo pacman -S feh
 ```
 
 Para el Spotify primero lo instalaremos y luego el cliente de personalización
 
 ```bash
-git clone https://aur.archlinux.org/spotify.git
-cd spotify
-makepkg -si
+$ yay -S spotify
 ```
 
 Instalemos spicetify para poner temas en spotify
