@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Screenshots/HeaderMain.png">
+  <img src="https://raw.githubusercontent.com/P4NAD3ROXIS/DotfilesForEverybody/main/Guide/Spanish-Version/Dots/Cuy.jpg">
   
 </p>
 
