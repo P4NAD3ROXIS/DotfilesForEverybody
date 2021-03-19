@@ -9,6 +9,17 @@
 
 <p align="center">Esta es la guía en español espero que te sirva 😺</p>
 
+
+## Acerca de la guía 
+Actualmente la guía solo esta para distribuciones basadas en Arch o en Debian, pero proximamente se viene para más distros
+
+
+## ¿Qué tipo de distro usas?
+
+- [Basada en Arch](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Arch/README.md)
+
+- [Basada en Debian](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Debian/README.md)
+
 ## Tabla de contenidos
 - [Acerca de la Guía](#acerca-de-la-guía)
 
@@ -30,13 +41,3 @@
   
   ° [Apoyame!]()
  
-
-## Acerca de la guía 
-Actualmente la guía solo esta para distribuciones basadas en Arch o en Debian, pero proximamente se viene para más distros
-
-## ¿Qué tipo de distro usas?
-
-- [Basada en Arch](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Arch/README.md)
-
-- [Basada en Debian](https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Distros/Debian/README.md)
-
