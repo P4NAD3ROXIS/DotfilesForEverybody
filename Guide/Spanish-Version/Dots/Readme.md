@@ -1,5 +1,12 @@
 <h1 align="center">Personalización en Debian</h1>
 
+<p align="center">
+ 
+<img src="https://github.com/P4NAD3ROXIS/DotfilesForEverybody/blob/main/Guide/Spanish-Version/Dots/Deb-custom.jpg">
+
+</p>
+
+
 Clonamos este repo
 
 ```bash
