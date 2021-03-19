@@ -1,4 +1,5 @@
 <h1 align="center">Primeros Pasos Arch</h1>
+
 # Instalando todo lo necesario
 
 Primeramente instalaremos el gestor de ventanas que requerimos, el proceso se muestra a continuación:
