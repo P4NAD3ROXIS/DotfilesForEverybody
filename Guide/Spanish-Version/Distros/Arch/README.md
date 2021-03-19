@@ -23,7 +23,7 @@ Luego instalaremos la barra utilizaré polybar para instalarlo ejecutamos el sig
 $ yay -S polybar-git
 ```
 
-Continuamos instalando el compositor de ventanas ( el que le da efectos chingones XD)
+Continuamos instalando el compositor de ventanas ( Picom )
 
 ```bash
 $ yay -S picom-ibhagwam-git
